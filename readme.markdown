@@ -4,6 +4,8 @@
 
 ## install
 
+Install the [package](https://npmjs.com/package/fetch-instagram-user):
+
 ```sh
 $ npm install fetch-instagram-user
 ```
