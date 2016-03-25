@@ -1,0 +1,28 @@
+{
+  "name": "fetch-instagram-user",
+  "version": "1.0.0",
+  "description": "Fetch an instagram user",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/purposeindustries/node-fetch-instagram-user.git"
+  },
+  "keywords": [
+    "instagram",
+    "fetch",
+    "user"
+  ],
+  "author": "Bence Dányi <bence@danyi.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/purposeindustries/node-fetch-instagram-user/issues"
+  },
+  "homepage": "https://github.com/purposeindustries/node-fetch-instagram-user#readme",
+  "devDependencies": {
+    "proxyquire": "^1.7.4",
+    "tape": "^4.5.1"
+  }
+}
